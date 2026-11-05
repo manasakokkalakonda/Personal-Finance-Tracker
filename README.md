@@ -1,7 +1,9 @@
 # Personal-Finance-Tracker
+
 Full-stack Personal Finance Tracker web app built with React.js, Tailwind CSS, Node.js, Express, and MongoDB, featuring JWT authentication, CRUD transactions, and interactive data visualization charts.
 
 ## Features
+
 - **Authentication:** Secure user login and registration using JSON Web Tokens (JWT).
 - **Transaction Management:** Full CRUD (Create, Read, Update, Delete) functionality for tracking income and expenses.
 - **Dashboard & Analytics:** Interactive data visualization charts for budget breakdown and spending analysis.
@@ -13,13 +15,10 @@ Full-stack Personal Finance Tracker web app built with React.js, Tailwind CSS, N
 - **Backend:** Node.js, Express.js, MongoDB, Mongoose, JWT authentication
 
 ## Project Structure
-
 Personal-Finance-Tracker/
-├── frontend/    # React client application
-
-├── backend/     # Express REST API server
-
-└── README.md    # Project documentation
+├── frontend/  # React client application
+├── backend/   # Express REST API server
+└── README.md   # Project documentation
 
 ### 🚀 Frontend (`/frontend`)
 - **React.js (Vite):** High-performance client-side application.
