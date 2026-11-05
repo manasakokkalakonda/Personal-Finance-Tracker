@@ -30,7 +30,6 @@ Personal-Finance-Tracker/
 - **Authentication Pages:** Clean user login and registration forms.
   
 # Installation for frontend
-
 ```powershell
   cd frontend
   npm install
