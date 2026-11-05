@@ -16,6 +16,7 @@ Full-stack Personal Finance Tracker web app built with React.js, Tailwind CSS, N
 
 ## Project Structure
 Personal-Finance-Tracker/
+
 ├── frontend/  # React client application
 
 ├── backend/   # Express REST API server
